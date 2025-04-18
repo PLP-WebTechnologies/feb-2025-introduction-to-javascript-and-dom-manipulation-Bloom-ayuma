@@ -108,7 +108,7 @@ input {
   from { opacity: 0; transform: translateY(-10px); }
   to { opacity: 1; transform: translateY(0); }
 }
-🧠 script.js
+(🧠 script.js)
 document.addEventListener('DOMContentLoaded', () => {
   const title = document.getElementById('main-title');
   const description = document.getElementById('description');
